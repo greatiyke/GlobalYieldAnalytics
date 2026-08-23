@@ -8,13 +8,17 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4-sky.svg)](https://tailwindcss.com/)
 [![Vite](https://img.shields.io/badge/Vite-6.0-purple.svg)](https://vitejs.dev/)
 
-![GlobalYield Analytics Platform](./public/hero_banner.png)
+<p center>
+  <img src="https://raw.githubusercontent.com/greatiyke/GlobalYieldAnalytics/main/public/hero_banner.png" alt="GlobalYield Analytics Platform" width="100%" />
+</p>
 
 ---
 
-## 📸 Application Demo Recording
+## 📸 Application Demo & Walkthrough
 
-![Cross-Border Real Estate Model Live Demo](./public/demo.webp)
+<p center>
+  <img src="https://raw.githubusercontent.com/greatiyke/GlobalYieldAnalytics/main/public/demo.webp" alt="Cross-Border Real Estate Model Live Demo" width="100%" />
+</p>
 
 ---
 
