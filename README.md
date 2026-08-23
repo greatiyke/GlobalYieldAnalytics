@@ -8,6 +8,14 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4-sky.svg)](https://tailwindcss.com/)
 [![Vite](https://img.shields.io/badge/Vite-6.0-purple.svg)](https://vitejs.dev/)
 
+![GlobalYield Analytics Platform](./public/hero_banner.png)
+
+---
+
+## 📸 Application Demo Recording
+
+![Cross-Border Real Estate Model Live Demo](./public/demo.webp)
+
 ---
 
 ## 📌 Executive Overview
