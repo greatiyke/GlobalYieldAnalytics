@@ -14,14 +14,6 @@
 
 ---
 
-## 📸 Application Demo & Walkthrough
-
-<p center>
-  <img src="https://raw.githubusercontent.com/greatiyke/GlobalYieldAnalytics/main/public/demo.webp" alt="Cross-Border Real Estate Model Live Demo" width="100%" />
-</p>
-
----
-
 ## 📌 Executive Overview
 
 Investing in real estate across international borders presents unique financial complexities—ranging from **foreign exchange (FX) rate volatility** and **purchasing power parity drift** to **jurisdiction-specific tax friction** (Stamp Duty, non-resident surcharges, building depreciation allowances, and Capital Gains Tax).
